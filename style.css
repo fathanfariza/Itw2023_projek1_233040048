@@ -1,0 +1,31 @@
+.jumbotron {
+    padding-top: 6rem;
+    background-color: #a890a8;
+    color: black;
+}
+
+#about {
+    background-color: #4d334d;
+    color: white;
+}
+#biodata {
+    background-color:#a890a8 ;
+}
+#hobby {
+    background-color: #4d334d;
+    color: white;
+}
+#contact {
+    background-color:#a890a8;
+    color: black;
+}
+section {
+    padding-top: 5rem;
+}
+#footer {
+    background-color: #4d334d;
+}
+table {
+    justify-content: center;
+    display: flex;
+}
